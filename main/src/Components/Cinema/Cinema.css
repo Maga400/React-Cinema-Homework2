@@ -1,0 +1,13 @@
+.section-design{
+    display: flex;
+    justify-content: center;
+    border: 3px solid red;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.h1-d{
+    margin: 10px 30px;
+    font-size: 1.7em;
+}
